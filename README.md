@@ -1,2 +1,2 @@
-# Get_Course
-For Elzero Web School Get Course
+# Git_Course
+For Elzero Web School Git Course
